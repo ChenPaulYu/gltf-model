@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gltf-model/static/css/main.19fd002b.chunk.css",
+    "main.js": "/gltf-model/static/js/main.d2006473.chunk.js",
+    "main.js.map": "/gltf-model/static/js/main.d2006473.chunk.js.map",
+    "runtime-main.js": "/gltf-model/static/js/runtime-main.adeaa7bb.js",
+    "runtime-main.js.map": "/gltf-model/static/js/runtime-main.adeaa7bb.js.map",
+    "static/js/2.51165d86.chunk.js": "/gltf-model/static/js/2.51165d86.chunk.js",
+    "static/js/2.51165d86.chunk.js.map": "/gltf-model/static/js/2.51165d86.chunk.js.map",
+    "index.html": "/gltf-model/index.html",
+    "precache-manifest.4783f6e88e7bdb6e59660f3aed7a0876.js": "/gltf-model/precache-manifest.4783f6e88e7bdb6e59660f3aed7a0876.js",
+    "service-worker.js": "/gltf-model/service-worker.js",
+    "static/css/main.19fd002b.chunk.css.map": "/gltf-model/static/css/main.19fd002b.chunk.css.map",
+    "static/media/mask.gltf": "/gltf-model/static/media/mask.2a2a458e.gltf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adeaa7bb.js",
+    "static/js/2.51165d86.chunk.js",
+    "static/css/main.19fd002b.chunk.css",
+    "static/js/main.d2006473.chunk.js"
+  ]
+}
